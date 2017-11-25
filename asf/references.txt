@@ -1,0 +1,14 @@
+Tact Filter Theory
+http://www.mit.edu/~jcb/tact.html
+ 
+How to ask Smart Questions
+ 
+http://www.catb.org/~esr/faqs/smart-questions.html#rtfm
+ 
+Insights
+◦          ASF Etiquette http://community.apache.org/contributors/etiquette
+◦          The Unix and Internet Fundamentals http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+◦          Disk layout http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/disk-layout.html#fsck
+◦          Releases http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html
+◦          Book must read http://shop.oreilly.com/product/9780596001087.do
+ 
